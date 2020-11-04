@@ -1,5 +1,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, самураи!");
+ main
+     System.out.println("Как ашчушчэния?");
+ main
   }
 }
